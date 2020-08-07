@@ -1,5 +1,5 @@
 # My_Resume_Flask
-A website to display my Resume and Projects
+A website to display my resume and projects using a flask backend.
 
 
 
@@ -8,7 +8,7 @@ A website to display my Resume and Projects
 <p align="center">
     <img src="DEMO/demo.gif", width="1000">
     <br>
-    <sup>The simplest and fastest way to create applications with a Web UI and a Python backend</sup>
+    <sup>The simplest and fastest way to create web applications with Python flask backend</sup>
 </p>
 
 
