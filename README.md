@@ -1,5 +1,5 @@
 # My_Resume_Flask
-A website to display my resume and projects using a flask backend.
+A website to display my resume and projects using a flask backend .
 
 
 
